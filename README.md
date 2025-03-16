@@ -1,5 +1,4 @@
-# vle-scripts
-VLE application startup scripts
+Gameon application startup scripts
 
 ## start the local database 
 Run the local RDBM container
