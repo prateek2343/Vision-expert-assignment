@@ -1,3 +1,5 @@
+First Go to the vle-scripts folder and run all the command 
+
 Gameon application startup scripts
 
 ## start the local database 
